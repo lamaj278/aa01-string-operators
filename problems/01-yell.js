@@ -5,6 +5,13 @@ version of that string.
 
 // Your code here 
 
+function yell(string) {
+    return string + "!!!";
+}
+
+console.log(yell("I want to go to the store"));
+console.log(yell("Time to program"));
+
 // console.log(yell("I want to go to the store")); // "I WANT TO GO TO THE STORE!!!"
 // console.log(yell("Time to program")); // "TIME TO PROGRAM!!!"
 

@@ -10,6 +10,7 @@ function yell(str) {
 }
 
 console.log(yell("I want to go to the store"));
+console.log(yell("Time to program"));
 
 
 // console.log(yell("I want to go to the store")); // "I WANT TO GO TO THE STORE!!!"
